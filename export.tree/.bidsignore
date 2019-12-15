@@ -1,0 +1,7 @@
+actualfiles/*
+actualfiles/example_participant_fully_procesed/*
+actualfiles/example_participant_fully_procesed/processed/*
+actualfiles/example_participant_fully_procesed/raw_data/*
+actualfiles/example_participant_fully_procesed/processed/functional_column_smoothed/*
+actualfiles/example_participant_fully_procesed/processed/Imagiro/*
+actualfiles/Raw_data/*/*.nii
